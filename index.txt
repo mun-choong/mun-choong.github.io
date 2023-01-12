@@ -1,4 +1,4 @@
-Mun Choong - First-Generation College Student in Business Analytics
+Mun Choong
 
 This is a personal website based on an html template made by codewithsadee
 
@@ -51,11 +51,6 @@ I am a First-Generation college student studying Business Analytics and Entrepre
 My main focus is in the Heath Integrated Business and Engineering honors program associated with the Haslam College of Business and 
 the Tickle College of Engineering. In this program, high-achieving business and engineering students are selected to work on real-world projects in cross-functional teams. The cohort attends classes designed around this curriculum and culminates the knowledge with internship experience and a specialty senior design project their final year with the Interdisiplinary Senior Design program.
 
-My experience spans several years of professional and academic development. My primary experience is in data analytics with a business application focus due to my major. I have taken courses in R, SQL, and Python to build technical ability and coding logic. In addition, I have used
-Tableau and Microsoft PowerBI academically and professionally for data visualization. This includes primarily of Excel, Access, and R raw data.
-Additionally, the Integrated Business and Engineering program has coursework dedicated to the tenets of project management and industrial engineering. Tools such as the quality function deployment, Gantt charts, Kanban boards, and agile/waterfall deployment principles are common-place subjects 
-that I use regularly. I have been able to validate my academic knowledge through various internships and job experience the past four years.
-
 Web Design
 100 %
 bg-color = #c7b1dd
@@ -88,53 +83,16 @@ SEO
 
 
 
-#---------- PROJECT ----------#
+#---------- Experience ----------#
 
-Latest Projects
+Experience
 
-Check out some of my latest projects with creative ideas.
-
-See All Projects
-
-bg-color - #f8f5fb
-color - #a07cc5
-Web Design
-Snowlake Theme
-
-Maecenas faucibus mollis interdum sed posuere consectetur est at lobortis. Scelerisque id ligula porta felis euismod semper. Fusce dapibus tellus cursus.
-
-See Project
-<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
-
-alt = Web Design
-
-bg-color - #f1f5fd
-color - #3f78e0
-Mobile Design
-Budget App
-
-alt = Mobile Design
-
-bg-color - #f5faf7
-color - #7cb798
-Web Design
-Missio Theme
-
-Maecenas faucibus mollis interdum sed posuere porta consectetur cursus porta lobortis. Scelerisque id ligula felis.
-
-alt = Web Design
-
-bg-color - #fcf4f6
-color - #d16b86
-Mobile Design
-Storage App
-
-Maecenas faucibus mollis interdum sed posuere consectetur est at lobortis. Scelerisque id ligula porta felis euismod semper.
-
-alt = Mobile Design
-
-
-
+My experience spans several years of professional and academic development. My primary experience is in data analytics with a business application
+focus due to my major. I have taken courses in R, SQL, and Python to build technical ability and coding logic. In addition, I have used
+Tableau and Microsoft PowerBI academically and professionally for data visualization. This includes primarily of Excel, Access, and R raw data.
+Additionally, the Integrated Business and Engineering program has coursework dedicated to the tenets of project management and industrial engineering.
+Tools such as the quality function deployment, Gantt charts, Kanban boards, and agile/waterfall deployment principles are common-place subjects 
+that I use regularly. I have been able to validate my academic knowledge through various internships and job experience the past four years.
 
 #---------- CONTACT ----------#
 
