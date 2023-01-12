@@ -1,12 +1,12 @@
-Julia - I'm User Interface Designer & Developer.
+Mun Choong - First-Generation College Student in Business Analytics
 
-This is a personal portfolio html template made by codewithsadee
+This is a personal website based on an html template made by codewithsadee
 
 
 
 #---------- HEADER ----------#
 
-alt = Julia home
+alt = Mun's Homepage
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -17,12 +17,11 @@ Projects
 Blog
 Contact
 
-info@email.com
-00 (123) 456 78 90
+mun.choong@outlook.com
+865-221-5915
 
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-dribbble"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>
 <ion-icon name="logo-youtube"></ion-icon>
 
@@ -33,13 +32,11 @@ aria-label = open menu
 
 #---------- HERO ----------#
 
-alt = Julia
+alt = Mun
 
-alt = 250+ Projects Done
+Entry-Level Professional in Business Analytics and Project Management
 
-I'm User Interface Designer & Developer.
-
-Hello! I'm Julia, a freelance user interface designer & developer based in London. I’m very passionate about the work that I do.
+Hey! My name is Mun and you have reached my professional website. I am a senior at the University of Tennessee, Knoxville studying Business Analytics. Learn more about me here!
 
 See My Works
 Contact Me
@@ -48,9 +45,16 @@ Contact Me
 
 #---------- ABOUT ----------#
 
-What I Do?
+Who is Mun?
 
-Duis mollis est commodo luctus nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare vel. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl.
+I am a First-Generation college student studying Business Analytics and Entrepreneurship at the University of Tennessee, Knoxville.
+My main focus is in the Heath Integrated Business and Engineering honors program associated with the Haslam College of Business and 
+the Tickle College of Engineering. In this program, high-achieving business and engineering students are selected to work on real-world projects in cross-functional teams. The cohort attends classes designed around this curriculum and culminates the knowledge with internship experience and a specialty senior design project their final year with the Interdisiplinary Senior Design program.
+
+My experience spans several years of professional and academic development. My primary experience is in data analytics with a business application focus due to my major. I have taken courses in R, SQL, and Python to build technical ability and coding logic. In addition, I have used
+Tableau and Microsoft PowerBI academically and professionally for data visualization. This includes primarily of Excel, Access, and R raw data.
+Additionally, the Integrated Business and Engineering program has coursework dedicated to the tenets of project management and industrial engineering. Tools such as the quality function deployment, Gantt charts, Kanban boards, and agile/waterfall deployment principles are common-place subjects 
+that I use regularly. I have been able to validate my academic knowledge through various internships and job experience the past four years.
 
 Web Design
 100 %
