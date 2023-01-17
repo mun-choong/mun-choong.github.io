@@ -918,7 +918,7 @@ textarea.input-field {
   
   .timeline__component--bg {
     padding: 1.5em;
-    background: rgba(255, 255, 255, 0.2);
+    background: var(--raisin-black_a6);
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
   }
@@ -930,7 +930,7 @@ textarea.input-field {
   
   .timeline__middle {
     position: relative;
-    background: #ffffff;
+    background: var(--raisin-black_a6);
   }
   
   .timeline__point {
@@ -940,7 +940,7 @@ textarea.input-field {
     transform: translateX(-50%);
     width: 15px;
     height: 15px;
-    background: #ffffff;
+    background: var(--raisin-black_a6);
     border-radius: 50%;
   }
   
