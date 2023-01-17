@@ -928,7 +928,7 @@ textarea.input-field {
  }
  
  .timeline-list span {
-   color: var(--vegas-gold);
+   color: var(--raisin-black_a6);
    font-weight: var(--fw-400);
    line-height: 1.6;
  }
@@ -940,7 +940,7 @@ textarea.input-field {
    left: 30px;
    width: 1px;
    height: calc(100% + 50px);
-   background: var(--jet);
+   background: var(--raisin-black_a6);
  }
  
  .timeline-item::after {
@@ -950,13 +950,13 @@ textarea.input-field {
    left: 33px;
    height: 6px;
    width: 6px;
-   background: var(--text-gradient-yellow);
+   background: var(--raisin-black_a6);
    border-radius: 50%;
    box-shadow: 0 0 0 4px var(--jet);
  }
  
  .timeline-text {
-   color: var(--light-gray);
+   color: var(--charcoal);
    font-weight: var(--fw-300);
    line-height: 1.6;
  }
