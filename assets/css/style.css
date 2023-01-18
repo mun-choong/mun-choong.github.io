@@ -919,7 +919,6 @@ textarea.input-field {
   .timeline__component--bg {
     padding: 1.5em;
     background: var(--raisin-black_a6);
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
   }
   
