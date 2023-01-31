@@ -413,6 +413,14 @@ body.nav-active { overflow: hidden; }
   gap: 12px;
 }
 
+.btn-wrapper-resume {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  align-items: left;
+  gap: 12px;
+  padding-top: 10px;
+}
 
 
 
