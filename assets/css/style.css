@@ -229,6 +229,8 @@ body.nav-active { overflow: hidden; }
 .grid-list {
   display: grid;
   gap: 30px;
+  position: relative;
+  left: 50px;
 }
 
 [data-reveal] {
@@ -432,6 +434,7 @@ body.nav-active { overflow: hidden; }
 .about .wrapper {
   gap: 50px;
   margin-block-end: 70px;
+  margin-bottom: 0;
   transition: var(--transition-2);
 }
 
@@ -444,6 +447,21 @@ body.nav-active { overflow: hidden; }
 
 .about-card .card-title { margin-block: 16px 10px; }
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  width: 75%;
+  height: 75%;
+}
+
 
 
 
@@ -454,11 +472,9 @@ body.nav-active { overflow: hidden; }
 
 .project { border-block: 1px solid var(--cadet-blue-crayola_a20); }
 
-.project .title-wrapper { margin-block-end: 40px; }
+.project .title-wrapper { margin-block-end: 20px; }
 
 .project .btn { margin-block-start: 24px; }
-
-.project .grid-list { gap: 40px; }
 
 .project-card {
   --padding: 24px;
