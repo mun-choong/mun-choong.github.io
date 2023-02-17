@@ -226,11 +226,12 @@ body.nav-active { overflow: hidden; }
 
 .section-title { margin-block-end: 16px; }
 
-.grid-list {
-  display: grid;
-  gap: 30px;
-  position: relative;
-  left: 50px;
+.flex-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 50px;
+  justify-content: center;
 }
 
 [data-reveal] {
@@ -917,14 +918,20 @@ textarea.input-field {
    .timeline {
     margin: 0 auto;
     max-width: 750px;
-    padding: 25px;
     display: grid;
     grid-template-columns: 1fr 3px 1fr;
     color: var(--charcoal);
+    overflow-x: hidden;
   }
   
   .timeline__component {
     margin: 0 20px 20px 20px;
+  }
+
+  @media (max-width:500px) {
+    .timeline__component__ {
+      margin-inline: 10px;
+    }
   }
   
   .timeline__component--bg {
@@ -1053,5 +1060,6 @@ textarea.input-field {
     -webkit-transform: rotate(45deg);
   }
   
+
 
 
