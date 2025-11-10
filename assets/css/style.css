@@ -34,6 +34,7 @@
   --att: rgba(0, 168, 224, 0.7);
   --fdic: rgba(180, 152, 89, 0.7);
   --verizon: rgba(213, 43, 30, 0.7);
+  --ignitereading: rgba(39, 0, 75, 1);
   --kub: rgba(0, 68, 124, 0.7);
   --utk: rgba(242, 133, 17, 0.7);
   --button-color: rgba(85, 122, 149, 1);
@@ -960,6 +961,13 @@ textarea.input-field {
     
   }
 
+  .timeline__component--bgignitereading {
+    padding: 1.5em;
+    background: var(--ignitereading);
+    border-radius: 10px;
+    
+  }
+
   .timeline__component--bgkub {
     padding: 1.5em;
     background: var(--kub);
@@ -1020,6 +1028,14 @@ textarea.input-field {
     text-align: right;
   }
 
+  .timeline__title_ignitereading {
+    margin: 0;
+    font-size: 1.15em;
+    font-weight: bold;
+    text-align: right;
+    color: var(--white);
+  }
+
   .timeline__title_kub {
     margin: 0;
     font-size: 1.15em;
@@ -1039,6 +1055,12 @@ textarea.input-field {
   .timeline__paragraph_verizon {
     line-height: 1.5;
     text-align: right;
+  }
+
+  .timeline__paragraph_ignitereading {
+    line-height: 1.5;
+    text-align: right;
+    color: var(--white);
   }
 
   .timeline__paragraph_kub {
