@@ -34,7 +34,7 @@ aria-label = open menu
 
 alt = Mun
 
-Entry-Level Professional in Business Analytics and Project Management
+Professional in Analytics and Certified Associate in Project Management
 
 Hey! My name is Mun and you've landed on my professional website. Learn more about me here!
 
